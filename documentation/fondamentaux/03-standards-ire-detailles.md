@@ -1,0 +1,5 @@
+- Introduction et résumé du standard
+- Hiérarchie des sources avec exemples concrets
+- Méthodes de triangulation
+- Outils de fact-checking recommandés
+- Techniques de vérification croisée

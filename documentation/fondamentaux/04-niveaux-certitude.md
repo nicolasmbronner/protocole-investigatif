@@ -1,0 +1,3 @@
+- Comment évaluer la solidité d'une information
+- Vocabulaire précis pour exprimer l'incertitude
+- Framework pour pondérer les preuves contradictoires

@@ -1,6 +1,66 @@
 # Domaines de Recherche Organisés
 
-## 🔍 **RECHERCHE ET ACQUISITION**
+## 🔍 **CONCEPTS FONDAMENTAUX À DÉVELOPPER**
+*Sujets flous ou critiques identifiés qui nécessitent des pages dédiées dans les fondamentaux*
+
+### **Épistémologie Stoïcienne - Introduction Accessible**
+- **Besoin** : Version simple et claire avec sources faciles à trouver
+- **Contenu** : Origines, validation académique, nombres clés, langage accessible
+- **Problème actuel** : Document existant trop complexe, jargon incompréhensible
+- **Sources potentielles** : Stanford Encyclopedia, applications modernes, preuves de validation
+
+### **Standards IRE - Histoire Vivante**
+- **Focus spécial** : L'histoire de Don Bolles qui explique POURQUOI IRE existe
+- **L'histoire marquante** : Reporter de 47 ans, membre fondateur IRE, assassiné par bombe (1976) → 38 journalistes de 28 médias se mobilisent pour "Arizona Project" → Premier journalisme collaboratif à grande échelle → Message : "Tuer un reporter multiplie l'enquête par 100"
+- **Données importantes** : 50 ans d'existence, 25,000+ histoires archivées, 5,000+ tipsheets
+- **Besoin** : Raconter l'histoire de façon à la "sentir" plutôt que juste l'apprendre
+
+### **Paper Trails - Technique Fondamentale**
+- **Définition simple** : Suivre les documents qui prouvent les activités de quelqu'un
+- **Application journalistique** : Un document mène au suivant, reconstitution des événements
+- **Exemples concrets** : Emails, reçus, contrats, correspondance officielle
+- **Principe** : "Documents state of mind" - toujours assumé qu'il existe des documents
+- **Technique** : Processus systématique en 5 étapes (identification → accès → liens → gaps)
+
+### **Sources Multiples Indépendantes**
+- **Problème** : Terme encore flou, besoin de définition précise
+- **Questions à éclaircir** : Qu'est-ce qui rend des sources "indépendantes" ? Comment les identifier ?
+- **Standards** : Règle du 3 minimum, critères d'indépendance, pièges à éviter
+
+### **Vérification Croisée par Source**
+- **Concept à développer** : Techniques concrètes de triangulation
+- **Méthodes pratiques** : Comment croiser différents types de sources
+- **Standards IRE** : Processus étape par étape
+
+### **Peer Review - Pilier de la Crédibilité**
+- **Importance** : Système de validation par les pairs
+- **Application** : Comment ça fonctionne, pourquoi c'est fiable
+- **Limites** : Ce que peer review ne garantit pas
+- **Reconnaissance** : Comment identifier les sources peer-reviewed
+
+### **Slow Journalism - Philosophie Complémentaire**
+- **Concept** : "Last to Breaking News" - privilégier l'analyse rétrospective
+- **Caractéristiques** : Investigation prolongée, réflexion approfondie, résistance à la dissémination
+- **Lien avec notre approche** : Patience épistémique, maturation de la compréhension
+- **Exemples** : Delayed Gratification Magazine, approches "anti-immédiateté"
+
+### **Tests Épistémologiques Pratiques**
+#### **Vérification Empirique IRE** : *"Provient-il de ce qui existe ?"*
+- **Application concrète** : Comment vérifier l'existence factuelle
+- **Outils** : Techniques de fact-checking, sources primaires
+
+#### **Test de Falsifiabilité** : *"Ne pourrait-il provenir de ce qui n'existe pas ?"*
+- **Principe** : Peut-on imaginer des preuves qui contrediraient cette affirmation ?
+- **Application** : Test critique pour évaluer la solidité d'une théorie
+
+#### **Epoché Stoïcienne** : *Qu'est-ce que c'est exactement ?*
+- **Définition** : Suspension méthodique du jugement face aux preuves insuffisantes
+- **Application pratique** : Quand et comment suspendre son jugement
+- **Différence** : Epoché vs scepticisme, acceptance vs résignation
+
+---
+
+## 🔍 **RECHERCHE ET ACQUISITION** *(Sujets déjà identifiés)*
 ### Stratégies de Recherche
 - Méthode de recherche SALSA (En cours, s'oriente vers l'approche journalistique IRE et la discipline épistémologique de la *Phantasia Kataleptike* stoïcienne)
 - Stratégies de recherches avancées
@@ -11,7 +71,7 @@
 
 ### Hiérarchisation des Sources
 - Hiérarchie de sources par contexte
-- Pair review et son importance
+- Pair review et son importance *(à développer dans les fondamentaux)*
 - Évaluation de qualité CRAAP
 - Autorités et organisations reconnues
 
@@ -19,9 +79,9 @@
 
 ## ✅ **VÉRIFICATION ET FACT-CHECKING**
 ### Techniques de Vérification
-- Méthode SIFT pour le fact-checking
+- Méthode SIFT pour le fact-checking *(à développer dans les fondamentaux)*
 - Les 5 piliers de vérification en journalisme
-- Vérifications croisées
+- Vérifications croisées *(à développer dans les fondamentaux)*
 - Outils de vérification pratiques
 - Fact-checkers de référence
 
@@ -30,7 +90,7 @@
 - Critères de crédibilité pour témoignages uniques
 - Techniques d'extraction de crédibilité sans "preuves lourdes"
 - Cohérence temporelle dans les témoignages
-- Recoupements indépendants
+- Recoupements indépendants *(à développer dans les fondamentaux)*
 - Chaînes de causalité dans les phénomènes complexes
 
 ---
@@ -81,7 +141,7 @@
 
 # Prochaines Étapes Suggérées
 
-1. **Sélection des méthodes** : Tester les approches listées et retenir les plus efficaces
+1. **Développement prioritaire** : Commencer par les concepts fondamentaux les plus flous/critiques
 2. **Création de templates** : Développer des formats standardisés pour chaque type de note
 3. **Validation pratique** : Appliquer le protocole sur un premier sujet mystérieux
 4. **Itération** : Affiner la méthodologie basée sur l'expérience pratique

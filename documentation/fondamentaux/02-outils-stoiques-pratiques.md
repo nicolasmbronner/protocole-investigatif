@@ -1,0 +1,3 @@
+- Les 5 outils décodés (Filtre contrôlable, Pause Button, Vue d'hélicoptère, etc.)
+- Exercices pratiques pour chaque outil
+- Comment les appliquer concrètement en recherche

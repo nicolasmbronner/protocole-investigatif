@@ -1,0 +1,1 @@
+- Stop, Investigate, Find, Trace - méthode de fact-checking rapide
