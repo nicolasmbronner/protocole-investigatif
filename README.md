@@ -4,12 +4,10 @@ Ce projet vise à créer un protocole d'investigation systématique utilisable p
 # Structure actuelle
 ```
 protocole-investigatif/
-├── README.md                            # Description principale (déjà fait)
-├── docs/                                # Documentation finale/protocole
-│   └── approche-systematique.md         # Votre guide systématique (doc 2)
+├── README.md                            # Description principale
+├── documentation/                       # Documentation finale/protocole
+│   └── fondamentaux
 ├── research/                            # Travaux de recherche/exploration  
-│   ├── cadre-recherche-critique.md      # Document 1
-│   └── journalisme-Soïque.md      # Document 3
 ├── templates/                           # À venir : guides pratiques/checklists
 └── examples/                            # À venir : cas d'application concrets
 ```
