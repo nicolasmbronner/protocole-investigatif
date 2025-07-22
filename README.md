@@ -4,10 +4,10 @@ Ce projet vise à créer un protocole d'investigation systématique utilisable p
 # Structure actuelle
 ```
 protocole-investigatif/
-├── README.md                            # Description principale
-├── documentation/                       # Documentation finale/protocole
+├── README.md                 # Description principale
+├── documentation/            # Documentation finale/protocole
 │   └── fondamentaux
-├── research/                            # Travaux de recherche/exploration  
-├── templates/                           # À venir : guides pratiques/checklists
-└── examples/                            # À venir : cas d'application concrets
+├── recherches/               # Travaux de recherche/exploration  
+├── templates/                # À venir : guides pratiques/checklists
+└── z-exemples/               # À venir : cas d'application concrets
 ```
