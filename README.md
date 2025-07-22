@@ -1,2 +1,2 @@
 # protocole investigatif
-Ce projet vise à créer un protocole d'investigation systématique pour explorer les mystères contemporains avec la rigueur d'un chercheur et l'ouverture d'un explorateur. Combine journalisme d'investigation, épistémologie stoïcienne et méthodes scientifiques pour créer des analyses équilibrées sur les sujets controversés.
+Ce projet vise à créer un protocole d'investigation systématique utilisable par les étudiants, journalistes et documentaristes pour explorer les mystères contemporains avec la rigueur d'un chercheur et l'ouverture d'un explorateur. Combine journalisme d'investigation, épistémologie stoïcienne et méthodes scientifiques pour créer des analyses équilibrées sur les sujets controversés.
