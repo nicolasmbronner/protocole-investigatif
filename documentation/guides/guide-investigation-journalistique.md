@@ -174,9 +174,9 @@ Une grande partie des recherches, c'est sortir son téléphone et googler intell
 
 ### **Types de Preuves - Résumé Exécutif**
 
-**1. Preuves Documentaires** ("Paper Trail") : Un document mène au suivant
+**1. Preuves Documentaires** ("Paper Trail") : Un document mène au suivant  
 **2. Preuves de Terrain** : Examens techniques, photos/vidéos, témoignages recoupés  
-**3. Preuves Numériques** : Métadonnées, géolocalisation, archives web
+**3. Preuves Numériques** : Métadonnées, géolocalisation, archives web  
 **4. Preuves par Convergence** : Recoupement de sources multiples indépendantes
 
 ### **Méthode SIFT pour la Vérification Rapide**
