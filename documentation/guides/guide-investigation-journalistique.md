@@ -96,7 +96,7 @@ Une grande partie des recherches, c'est sortir son téléphone et googler intell
 **Exemple** : Une ville embauche un nouveau chef de police → Je le google → Je découvre qu'il a été viré il y a deux jobs pour conduite en état d'ivresse → Question : "Qu'est-ce qu'il ne nous dit pas ?" → Je vais chercher les documents publics sur ce licenciement.
 
 ### **Hiérarchie des Sources**
-<img src="https://i.imgur.com/DcYDZYR.png" width=400>
+<img src="https://github.com/nicolasmbronner/protocole-investigatif/blob/main/z-ressources/primary-secondary-sources.png?raw=true" width=400>
 
 *Image très parlante illustrant la différence entre sources primaires et secondaires*
 
@@ -197,7 +197,9 @@ Avant de lire l'article, de partager la vidéo, ou d'agir sur une émotion forte
 #### **F - Find Better Coverage (Trouvez une Meilleure Couverture)**
 - Cherchez d'autres sources sur le même sujet
 - Y a-t-il consensus ou contradictions ?
-- Utilisez des sites de fact-checking reconnus
+- Utilisez des sites de fact-checking reconnus 
+
+<!-- TODO: Ajouter les sites de fact-checking reconnus -->
 
 #### **T - Trace to Origin (Remontez à l'Origine)**
 - Suivez les liens vers les sources originales
