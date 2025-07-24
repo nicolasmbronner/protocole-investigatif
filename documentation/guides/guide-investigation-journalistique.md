@@ -341,6 +341,8 @@ Les médias légitimes ne paient JAMAIS de sources pour des informations. C'est 
 
 Cette approche systématique remplace les méthodes artisanales par des processus reproductibles et vérifiables, conformes aux standards IRE et aux pratiques des équipes d'investigation internationales.
 
+<!-- TODO: Besoin de rendre cette partie 6 plus accessible, tel quel, c'est incompréhensible -->
+
 ### **Structure d'Écriture Efficace**
 
 #### **Ordre de Rédaction Recommandé**
@@ -415,6 +417,8 @@ L'organisation **Investigative Reporters and Editors** a été fondée en 1975 p
 3. Usage d'un document menant au suivant
 4. Recherche de liens entre découvertes  
 5. Documentation des gaps et incohérences
+
+<!-- TODO: Ce passage est intéressant et important, mais tel quel, inapplicable, pas assez clair ni pratique, manque exemples pour rendre plus accessible -->
 
 #### **Multi-source Verification**
 - Recoupement via archives locales, médias sociaux, bases publiques
@@ -511,3 +515,5 @@ Cette approche transforme l'investigation en **processus anti-manipulation** qui
 ---
 
 *Guide basé sur 50 ans d'expérience IRE, les meilleures pratiques journalistiques contemporaines, et les méthodes modernes de fact-checking pour l'ère numérique.*
+
+<!-- TODO: Créer un document anexe, basé sur du réel si possible, montrant une mise en oeuvre pratique les grandes lignes apprises dans ce document, point par point, un cas réel ou pratique démontrant du début à la fin comment faire, puis la conclusion finale, c'est comme rester à côté d'un journaliste pendant une investigation (pas trop compliquée pour que ce soit simple à suivre) du début à la fin -->
