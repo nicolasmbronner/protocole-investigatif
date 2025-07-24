@@ -310,12 +310,12 @@ Les médias légitimes ne paient JAMAIS de sources pour des informations. C'est 
 **Standard IRE** : Grille systématique pour tracer chaque élément de preuve.
 
 **Structure de la grille** :
-```
-Source → Fait allégué → Corroboration → Niveau de fiabilité → Notes
-AFP → X a dit Y → Confirmé par Z → Haute → Contexte vérifié
-Témoin A → Y s'est produit → Non confirmé → Faible → À recouper
-Document B → Z prouve Y → Original vérifié → Très haute → Authentifié
-```
+
+| Source       | Fait allégué         | Corroboration    | Niv. Fiabilité | Note             |
+| ------------ | -------------------- | ---------------- | -------------- | ---------------- |
+| AFP          | X a dit Y            | Confirmé par Z   | Haute          | Contexte vérifié |
+| Témoin A     | Y s'est produit      | Non confirmé     | Faible         | A recouper       |
+| Document B   | Z prouve Y           | Original vérifié | Très haute     | Authentifié      |
 
 **Avantages** :
 - Traçabilité complète des informations  
