@@ -97,7 +97,7 @@ Une grande partie des recherches, c'est sortir son téléphone et googler intell
 
 ### **Hiérarchie des Sources**
 
-![Hiérarchie des sources primaires et secondaires](https://imgur.com/a/v157gmZ)
+![Imgur](https://imgur.com/DcYDZYR)
 *Image très parlante illustrant la différence entre sources primaires et secondaires*
 
 #### **Sources Primaires** : Les Plus Fiables
