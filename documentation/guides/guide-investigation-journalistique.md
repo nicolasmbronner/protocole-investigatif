@@ -96,8 +96,7 @@ Une grande partie des recherches, c'est sortir son téléphone et googler intell
 **Exemple** : Une ville embauche un nouveau chef de police → Je le google → Je découvre qu'il a été viré il y a deux jobs pour conduite en état d'ivresse → Question : "Qu'est-ce qu'il ne nous dit pas ?" → Je vais chercher les documents publics sur ce licenciement.
 
 ### **Hiérarchie des Sources**
-
-![Hiérarchie des sources primaires et secondaires](https://i.imgur.com/DcYDZYR.png | width=400 "Image très parlante illustrant la différence entre sources primaires et secondaires")
+<img src="https://i.imgur.com/DcYDZYR.png" width=400>
 *Image très parlante illustrant la différence entre sources primaires et secondaires*
 
 #### **Sources Primaires** : Les Plus Fiables
